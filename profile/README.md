@@ -1,7 +1,7 @@
 # Scrivener – Professional Writing Software for Mac
 
 <div align="center">  
-<img src="https://www.literatureandlatte.com/store/sites/default/files/images/scrivener-icon-2021-256px.png" alt="Scrivener Logo" width="256" height="256">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png" alt="Scrivener Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -18,7 +18,7 @@ Scrivener for Mac is a professional writing application developed by Literature 
 
 The software offers a unique corkboard and outline view, allowing users to rearrange sections easily. It supports rich text editing, footnotes, comments, and full-screen composition mode to minimize distractions. Whether you're a novelist, academic, or journalist, Scrivener provides the flexibility and control needed for serious writing projects.
 
-![Scrivener Interface](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png)
+![Scrivener Interface](https://cdn.macstories.net/002/screenshot-2017-11-19-17-20-131511134370725.png)
 
 ---
 
